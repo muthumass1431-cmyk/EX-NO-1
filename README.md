@@ -1,5 +1,5 @@
 
-# Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models
+# Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Model
 
 .     Experiment:
 Develop a comprehensive report for the following exercises:
